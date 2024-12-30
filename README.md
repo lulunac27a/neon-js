@@ -194,7 +194,7 @@ var obj = map.toObject();
 Dumps decoded structure into simple text output as you can see in the [demo](http://matej21.github.io/neon-js-dist/).
 
 ```javascript
-var text = neon.Dumper.toText(data)`;
+var text = neon.Dumper.toText(data);
 ```
 
 
